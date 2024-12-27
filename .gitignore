@@ -1,0 +1,53 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.so
+
+.venv/
+env/
+venv/
+
+.ipynb_checkpoints/
+
+*.log
+*.out
+*.err
+*.stackdump
+
+*.egg-info/
+*.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.cache/
+
+# Environment variables
+.env
+.env.*
+
+# macOS system files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build files
+build/
+dist/
+*.spec
